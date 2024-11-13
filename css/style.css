@@ -189,4 +189,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-/* finish-him- */
+img {
+  display: block;
+}
