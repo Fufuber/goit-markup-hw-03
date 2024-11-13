@@ -192,3 +192,17 @@ body {
 img {
   display: block;
 }
+
+.header-chapter {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.header-inclusive-div {
+  display: flex;
+}
+
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 15px;
+}
