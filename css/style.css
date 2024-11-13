@@ -205,25 +205,25 @@ img {
   padding: 0 15px;
 }
 
-.navigation-main{
+.navigation-main {
   display: flex;
   align-items: center;
 }
 
-.logo-design{
-  margin right: 76px;
+.logo-design {
+  margin-right: 76px;
 }
 
-.nav-list{
+.nav-list {
   display: flex;
   gap: 40px;
 }
 
-.nav-studio{
+.nav-studio {
   padding: 24px 0;
 }
 
-.address-list{
+.address-list {
   display: flex;
   gap: 40px;
 }
