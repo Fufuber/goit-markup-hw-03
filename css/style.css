@@ -204,3 +204,26 @@ img {
   margin: 0 auto;
   padding: 0 15px;
 }
+
+.navigation-main{
+  display: flex;
+  align-items: center;
+}
+
+.logo-design{
+  margin right: 76px;
+}
+
+.nav-list{
+  display: flex;
+  gap: 40px;
+}
+
+.nav-studio{
+  padding: 24px 0;
+}
+
+.address-list{
+  display: flex;
+  gap: 40px;
+}
