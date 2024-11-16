@@ -297,3 +297,29 @@ img {
 .responsibility-work {
   text-align: center;
 }
+
+.our-portfolios {
+  padding: 120px;
+}
+
+.services-chapter {
+  margin-bottom: 72px;
+}
+
+.bottom-images-container-list {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.onebox {
+  width: calc((100% - 72px) / 4);
+}
+
+.container-list-style {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+}
