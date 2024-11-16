@@ -216,6 +216,7 @@ img {
 .nav-list {
   display: flex;
   gap: 40px;
+    list-style-type: none;
 }
 
 .nav-studio {
@@ -225,6 +226,7 @@ img {
 .address-list {
   display: flex;
   gap: 40px;
+  list-style-type: none;
 }
 
 .main-head {
@@ -325,7 +327,7 @@ img {
 }
 
 .bottom-chapter{
-  padding: 100px;
+  padding: 100px 0;
 }
 
 .logo-design{
