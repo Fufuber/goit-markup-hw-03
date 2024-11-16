@@ -263,4 +263,8 @@ visibility: hidden;
   width: calc((100% - 72px)/4);
 }
 
+.main-description-sections .container ul li h3{
+  margin-bottom: 8px;
+}
+
 }
