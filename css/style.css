@@ -254,4 +254,13 @@ img {
 visibility: hidden;
 }
 
+.list-bottom-ul{
+  display: flex;
+  gap: 24px;
+}
+
+.list-type{
+  width: calc((100% - 72px)/4);
+}
+
 }
