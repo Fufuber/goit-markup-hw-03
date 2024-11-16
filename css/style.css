@@ -228,12 +228,9 @@ img {
   gap: 40px;
 }
 
-.main-head {
-  padding: 180px 0;
-}
-
 .main-head-word {
   max-width: 496px;
+  padding: 188px 0;
 }
 
 .button-css {
