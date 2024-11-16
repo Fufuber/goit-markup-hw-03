@@ -314,12 +314,26 @@ img {
 }
 
 .onebox {
-  width: calc((100% - 3 * 24px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .container-list-style {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-  margin-bottom: 8px !important;
+  margin-bottom: 8px;
 }
+
+.bottom-chapter{
+  padding: 100px;
+}
+
+.logo-design{
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.bottom-explanation{
+  max-width: 264px;
+}
+
