@@ -216,7 +216,7 @@ img {
 .nav-list {
   display: flex;
   gap: 40px;
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .nav-studio {
@@ -326,16 +326,15 @@ img {
   border-top: none;
 }
 
-.bottom-chapter{
+.bottom-chapter {
   padding: 100px 0;
 }
 
-.logo-design{
+.logo-design {
   display: inline-block;
   margin-bottom: 16px;
 }
 
-.bottom-explanation{
+.bottom-explanation {
   max-width: 264px;
 }
-
