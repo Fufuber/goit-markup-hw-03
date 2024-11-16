@@ -251,7 +251,7 @@ img {
 }
 
 .visually-hidden {
-display: none;
+visibility: hidden;
 }
 
 }
