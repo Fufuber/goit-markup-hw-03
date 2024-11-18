@@ -316,7 +316,7 @@ img {
 }
 
 .onebox {
-  width: calc ((100% - 72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .container-list-style {
@@ -330,9 +330,9 @@ img {
   padding: 100px 0;
 }
 
-.logo-design {
+.logo-design-bottom {
   margin-bottom: 16px;
-  display: inline;
+  display: inline-block;
 }
 
 .bottom-explanation {
