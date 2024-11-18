@@ -13,7 +13,6 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration: none;
 }
 
 .logo-studio-word {
@@ -27,7 +26,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  text-decoration: none;
 }
 
 .nav-studio:hover {
@@ -48,7 +46,6 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  text-decoration: none;
 }
 
 .address-mail:hover {
@@ -64,14 +61,9 @@ body {
 
 .main-head {
   background-color: #2e2f42;
-  padding: 188px 0;
 }
 
 .main-head-word {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -232,7 +224,6 @@ img {
   display: flex;
   gap: 40px;
   list-style-type: none;
-
 }
 
 .nav-studio {
@@ -326,28 +317,20 @@ img {
 
 .bottom-images-container-list {
   display: flex;
-  flex-direction: row;
-    flex-wrap: wrap;
-    column-gap: 24px;
-    row-gap: 48px;
-    list-style-type: none;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 
 .onebox {
-  flex: 1 1 calc(33.333% - 20px);
-  text-align: center;
+  width: calc((100% - 72px)/4);
 }
 
-
-
 .container-list-style {
-  font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
-    
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  margin-bottom: 8px;
+  border-top: none;
 }
 
 .bottom-chapter {
