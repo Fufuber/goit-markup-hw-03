@@ -198,8 +198,12 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
-.header-all-div {
+.header-div{
   display: flex;
+  height: 100%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .container {
